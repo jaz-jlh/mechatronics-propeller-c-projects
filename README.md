@@ -16,3 +16,7 @@ Early project that introduced students to programming the Propeller microcontrol
 * Uses a "laser system" (LED and photoresistor) to detect motion
 * Plays a song when the system is armed and motion is detected
 * Can be disarmed with the correct PIN typed on a IR Remote
+
+---
+
+See [my portfolio](https://drive.google.com/open?id=0B3Y5DLBJ2TJWdFhZNHNGVEc0V2M) for further description and picture/video links
